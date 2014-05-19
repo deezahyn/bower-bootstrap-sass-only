@@ -1,0 +1,23 @@
+{
+  "name": "bower-bootstrap-sass-only",
+  "version": "3.1.1",
+  "homepage": "https://github.com/stylenclass/bower-bootstrap-sass-only",
+  "authors": [
+    "chris <stylenclass@live.com>"
+  ],
+  "description": "sass-only version of the official bootstrap-sass",
+  "main": "bootstrap.scss",
+  "keywords": [
+    "bootstrap",
+    "sass-only"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

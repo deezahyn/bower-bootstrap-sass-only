@@ -1,2 +1,3 @@
-bower-bootstrap-sass-only
-=========================
+# Bootstrap for Sass [![Gem Version](https://badge.fury.io/rb/bootstrap-sass.svg)](http://badge.fury.io/rb/bootstrap-sass) [![Bower Version](https://badge.fury.io/bo/bootstrap-sass-official.svg)](http://badge.fury.io/bo/bootstrap-sass-official) [![Build Status](http://img.shields.io/travis/twbs/bootstrap-sass.svg)](http://travis-ci.org/twbs/bootstrap-sass)
+
+sass-only version of the official bootstrap-sass
